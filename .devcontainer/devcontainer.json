@@ -1,5 +1,6 @@
 {
-	"image": "oven/bun",
+	
+	"build": { "dockerfile": "Dockerfile" },
 
 	"customizations": {
 		"vscode": {
