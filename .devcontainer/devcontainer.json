@@ -1,0 +1,21 @@
+{
+	"image": "oven/bun",
+
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"GitHub.copilot-chat",
+				"ryanluker.vscode-coverage-gutters",
+				"donjayamanne.git-extension-pack",
+				"nhoizey.gremlins",
+				"bradlc.vscode-tailwindcss",
+				"ecmel.vscode-html-css",
+				"mohd-akram.vscode-html-format",
+
+				"oven.bun-vscode",
+				"swellaby.node-pack"
+			]
+		}
+	}
+}
